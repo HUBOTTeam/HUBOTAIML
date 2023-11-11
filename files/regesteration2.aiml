@@ -1121,19 +1121,8 @@
     </template>
 </category>
 
-<category>
-    <pattern>^ GPA ^</pattern>
-    <template>
-        <srai>What is the cumulative GPA and how is it calculated</srai>
-    </template>
-</category>
 
-<category>
-    <pattern>GPA ^</pattern>
-    <template>
-        <srai>What is the cumulative GPA and how is it calculated</srai>
-    </template>
-</category>
+
 
 
 
@@ -2570,6 +2559,1122 @@
 </category>
 
 
+
+
+
+
+
+
+<category>
+    <pattern>What is a credit hour</pattern>
+    <template>
+        Published in the instructions for granting a bachelor’s degree and the student guide electronically<break/>
+        Credit hour: An academic evaluation unit that means the student’s attendance is sixteen (16) Theoretical lecture.
+      <button>
+            <text>find more here</text>
+            <url>https://pic.hu.edu.jo/Upload/42000000/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D9%85%D9%86%D8%AD%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D9%88%D8%B3%202016%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%2027-2-2019.pdf</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>How is a credit hour defined</pattern>
+    <template>
+        <srai>What is a credit hour</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>What does a credit hour represent</pattern>
+    <template>
+        <srai>What is a credit hour</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Can you explain the concept of a credit hour</pattern>
+    <template>
+        <srai>What is a credit hour</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Where can I find information about credit hours</pattern>
+    <template>
+        <srai>What is a credit hour</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Are credit hours the same for all subjects</pattern>
+    <template>
+        NO,
+        <srai>What is a credit hour</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>What is the maximum number of credit hours per semester</pattern>
+    <template>
+        18 for regular student and 21 for the graduated.
+       <srai>What is a credit hour</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Are there different types of credit hours</pattern>
+    <template>
+        <srai>What is a credit hour</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>How are credit hours assigned to each course</pattern>
+    <template>
+        <srai>What is a credit hour</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>What is the significance of credit hours in my degree</pattern>
+    <template>
+        <srai>What is a credit hour</srai>
+    </template>
+</category>
+
+
+
+
+
+
+<category>
+    <pattern>When is a student’s registration cancelled</pattern>
+    <template>
+        Within the deadline specified in the announcement, and acceptance will be canceled if the student does not pay the university fees
+        <button>
+            <text>follow anoucments</text>
+            <url>https://reg2.hu.edu.jo/Default.aspx</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>What leads to the cancellation of a student's registration</pattern>
+    <template>
+        <srai>When is a student’s registration cancelled</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Can a student's registration be cancelled for not paying fees</pattern>
+    <template>
+       yes, <srai>When is a student’s registration cancelled</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Is there a specific deadline for registration to avoid cancellation</pattern>
+    <template>
+       yes, <srai>When is a student’s registration cancelled</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>What happens if a student misses the registration deadline</pattern>
+    <template>
+        <srai>When is a student’s registration cancelled</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>How can a student avoid registration cancellation</pattern>
+    <template>
+        <srai>When is a student’s registration cancelled</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Is there a grace period after the registration deadline</pattern>
+    <template>
+        <srai>When is a student’s registration cancelled</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Are there consequences for late registration</pattern>
+    <template>
+      yes,  <srai>When is a student’s registration cancelled</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Is registration cancellation reversible</pattern>
+    <template>
+       NO, <srai>When is a student’s registration cancelled</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>What is the impact of registration cancellation on a student's record</pattern>
+    <template>
+        <srai>When is a student’s registration cancelled</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>What are the consequences of non payment on registration</pattern>
+    <template>
+        <srai>When is a student’s registration cancelled</srai>
+    </template>
+</category>
+
+
+
+
+
+
+
+
+
+
+
+<category>
+    <pattern>What are the academic warnings that a student gets</pattern>
+    <template>
+        <button>
+            <text>academic warnings</text>
+            <url>https://pic.hu.edu.jo/upload/84000000/std16.doc</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>How does a student receive academic warnings</pattern>
+    <template>
+        <srai>What are the academic warnings that a student gets</srai>
+        Academic warnings are typically issued when a student's academic performance falls below the university's standards. These warnings serve as indicators to address potential issues and improve performance.
+    </template>
+</category>
+
+<category>
+    <pattern>What actions lead to academic warnings</pattern>
+    <template>
+        <srai>What are the academic warnings that a student gets</srai>
+        Academic warnings can result from factors such as consistently low grades, failure to meet attendance requirements, or academic misconduct. It's important to adhere to university policies to avoid receiving warnings.
+    </template>
+</category>
+
+<category>
+    <pattern>Can I avoid academic warnings</pattern>
+    <template>
+        <srai>What are the academic warnings that a student gets</srai>
+        Yes, academic warnings can be avoided by maintaining consistent attendance, actively participating in classes, seeking academic support when needed, and adhering to the university's code of conduct.
+    </template>
+</category>
+
+<category>
+    <pattern>How serious are academic warnings</pattern>
+    <template>
+        <srai>What are the academic warnings that a student gets</srai>
+        Academic warnings are a serious indication that a student's performance is not meeting the university's expectations. It is crucial to address the issues leading to the warning promptly.
+    </template>
+</category>
+
+<category>
+    <pattern>Where can I find information about academic warnings</pattern>
+    <template>
+        <srai>What are the academic warnings that a student gets</srai>
+        Detailed information about academic warnings, including the university's policies and procedures, can be found in the official student guide. You can access it on the university's website.
+    </template>
+</category>
+
+<category>
+    <pattern>What happens if I ignore academic warnings</pattern>
+    <template>
+        <srai>What are the academic warnings that a student gets</srai>
+        Ignoring academic warnings may lead to more severe consequences, such as academic probation or dismissal. It is highly recommended to take immediate action and seek assistance to improve academic performance.
+    </template>
+</category>
+
+<category>
+    <pattern>How can I address academic warnings</pattern>
+    <template>
+        <srai>What are the academic warnings that a student gets</srai>
+        To address academic warnings, schedule a meeting with your academic advisor, create a plan for improvement, and utilize university resources such as tutoring services. Taking proactive steps is essential for success.
+    </template>
+</category>
+
+<category>
+    <pattern>Are academic warnings common</pattern>
+    <template>
+        <srai>What are the academic warnings that a student gets</srai>
+        Academic warnings are not uncommon, and many students receive them as a way to identify areas for improvement. The key is to view them as opportunities to enhance academic performance.
+    </template>
+</category>
+
+<category>
+    <pattern>Can academic warnings be appealed</pattern>
+    <template>
+        <srai>What are the academic warnings that a student gets</srai>
+        In certain circumstances, academic warnings can be appealed. Check the university's policies and procedures for the specific steps and criteria for appealing academic warnings.
+    </template>
+</category>
+
+<category>
+    <pattern>How do academic warnings affect my academic record</pattern>
+    <template>
+        <srai>What are the academic warnings that a student gets</srai>
+        Academic warnings are typically part of the student's academic record. While they do not carry a permanent penalty, they serve as a record of past performance. It is crucial to improve to maintain a positive academic standing.
+    </template>
+</category>
+
+<category>
+    <pattern>What should I do if I receive an academic warning</pattern>
+    <template>
+        <srai>What are the academic warnings that a student gets</srai>
+        If you receive an academic warning, schedule a meeting with your academic advisor to discuss the specific issues. Develop a plan for improvement, utilize available resources, and take proactive steps to address the underlying concerns.
+    </template>
+</category>
+
+<category>
+    <pattern>Are there different types of academic warnings</pattern>
+    <template>
+        <srai>What are the academic warnings that a student gets</srai>
+        Academic warnings may vary based on the nature of the academic issues. Examples include warnings for low grades, attendance, or academic misconduct. Familiarize yourself with the types relevant to your situation.
+    </template>
+</category>
+
+<category>
+    <pattern>How are academic warnings communicated to students</pattern>
+    <template>
+        <srai>What are the academic warnings that a student gets</srai>
+        Academic warnings are typically communicated to students through official university channels, such as email or the student portal. It is essential to regularly check your university communications for important updates.
+    </template>
+</category>
+
+<category>
+    <pattern>Can academic warnings be removed from my record</pattern>
+    <template>
+        <srai>What are the academic warnings that a student gets</srai>
+        Academic warnings are part of your academic record, but in some cases, improvements in performance may lead to their removal. Consult with your academic advisor to understand the specific procedures for addressing and potentially removing academic warnings.
+    </template>
+</category>
+
+<category>
+    <pattern>What is the process for resolving academic warnings</pattern>
+    <template>
+        <srai>What are the academic warnings that a student gets</srai>
+        Resolving academic warnings involves working closely with your academic advisor, developing a plan for improvement, and utilizing available resources. Regularly monitor your progress and make adjustments as needed to address the identified issues.
+    </template>
+</category>
+
+
+
+
+
+
+
+
+
+
+<category>
+    <pattern>What is a sub specialization and how do I know its courses</pattern>
+    <template>
+        There is no minor in the university
+    </template>
+</category>
+
+<category>
+    <pattern>Are there minors in the university</pattern>
+    <template>
+        <srai>What is a sub specialization and how do I know its courses</srai>
+        The university does not offer minors. Students typically focus on their major field of study without the option for sub-specializations or minors.
+    </template>
+</category>
+
+<category>
+    <pattern>Can I pursue a minor at the university</pattern>
+    <template>
+        <srai>What is a sub specialization and how do I know its courses</srai>
+        No, the university does not provide the option for minors or sub-specializations. Students concentrate on their major coursework without additional specialization tracks.
+    </template>
+</category>
+
+<category>
+    <pattern>How can I add a minor to my major</pattern>
+    <template>
+        <srai>What is a sub specialization and how do I know its courses</srai>
+        Adding a minor is not applicable at the university. Students focus solely on their major field of study without the option for additional specializations.
+    </template>
+</category>
+
+<category>
+    <pattern>What are the available minors at the university</pattern>
+    <template>
+        <srai>What is a sub specialization and how do I know its courses</srai>
+        The university does not offer minors or sub-specializations. Students concentrate on their major coursework without the option for additional specializations.
+    </template>
+</category>
+
+<category>
+    <pattern>Can I choose a sub-specialization for my major</pattern>
+    <template>
+        <srai>What is a sub specialization and how do I know its courses</srai>
+        The university does not provide the option for sub-specializations or minors. Students focus on their major field of study without additional specialization tracks.
+    </template>
+</category>
+
+<category>
+    <pattern>Is it possible to have a major and a minor at the same time</pattern>
+    <template>
+        <srai>What is a sub specialization and how do I know its courses</srai>
+        No, the university does not offer minors or sub-specializations. Students focus solely on their major field of study without the option for additional specializations.
+    </template>
+</category>
+
+<category>
+    <pattern>How can I customize my academic path with a minor</pattern>
+    <template>
+        <srai>What is a sub specialization and how do I know its courses</srai>
+        Customizing your academic path with a minor is not applicable at the university. Students concentrate on their major coursework without additional specializations.
+    </template>
+</category>
+
+<category>
+    <pattern>Are minors beneficial at the university</pattern>
+    <template>
+        <srai>What is a sub specialization and how do I know its courses</srai>
+        Since the university does not offer minors or sub-specializations, the academic focus is solely on the major field of study.
+    </template>
+</category>
+
+<category>
+    <pattern>What majors can be combined with a minor</pattern>
+    <template>
+        <srai>What is a sub specialization and how do I know its courses</srai>
+        Combining majors with minors is not applicable at the university. Students concentrate on their major coursework without additional specializations.
+    </template>
+</category>
+
+<category>
+    <pattern>Can I add a minor to my degree program</pattern>
+    <template>
+        <srai>What is a sub specialization and how do I know its courses</srai>
+        Adding a minor to your degree program is not possible at the university. Students focus solely on their major field of study without additional specializations.
+    </template>
+</category>
+
+<category>
+    <pattern>How do minors work at the university</pattern>
+    <template>
+        <srai>What is a sub specialization and how do I know its courses</srai>
+        Minors are not applicable at the university. Students concentrate on their major coursework without the option for additional specializations.
+    </template>
+</category>
+
+
+
+
+
+
+
+
+
+
+
+<category>
+    <pattern>How is the study postponed and is there a specific date for postponement</pattern>
+    <template>
+        Published in the instructions for granting a bachelor’s degree and the student guide electronically and before the start of the semester
+        <ol>
+           <li>The student may postpone his studies at the university for a period not exceeding five compulsory semesters, whether Was it intermittent or continuous?</li> 
+           <li>It is not permissible to postpone the studies of a new student or transferring to the university except after completing one academic semester.At least after joining university.</li> 
+            <li> The student may submit a request to postpone his studies according to the prescribed form before the end of the second week of the semester.
+                Who wishes to postpone his studies, and the Dean of the College decides on this request and communicates his decision to the Director of Admissions and Registration.
+                The Dean of Student Affairs, the head of the relevant department, and any other concerned party.</li> 
+         <li>The period of postponement is not calculated from the maximum period allowed for obtaining a bachelor’s degree or for the purposes of
+                    Remove alarm effect.</li> 
+        </ol>
+        <button>
+            <text>find more on page 14</text>
+            <url>https://pic.hu.edu.jo/Upload/42000000/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D9%85%D9%86%D8%AD%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D9%88%D8%B3%202016%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%2027-2-2019.pdf</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>Can I postpone my studies at the university</pattern>
+    <template>
+        Yes, a student may postpone their studies at the university for a period not exceeding five compulsory semesters, whether it is intermittent or continuous.
+        However, there are specific regulations to follow, and it is important to refer to the instructions for granting a bachelor’s degree and the student guide electronically.
+        <button>
+            <text>Learn more on page 14</text>
+            <url>https://pic.hu.edu.jo/Upload/42000000/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D9%85%D9%86%D8%AD%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D9%88%D8%B3%202016%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%2027-2-2019.pdf</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>What is the process for postponing studies at the university</pattern>
+    <template>
+        The student may submit a request to postpone their studies according to the prescribed form before the end of the second week of the semester.
+        The Dean of the College decides on this request and communicates the decision to the Director of Admissions and Registration, the Dean of Student Affairs, the head of the relevant department, and any other concerned party.
+        <button>
+            <text>Learn more on page 14</text>
+            <url>https://pic.hu.edu.jo/Upload/42000000/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D9%85%D9%86%D8%AD%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D9%88%D8%B3%202016%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%2027-2-2019.pdf</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>Is there a deadline for requesting a study postponement</pattern>
+    <template>
+        Yes, the student may submit a request to postpone their studies before the end of the second week of the semester.
+        It is crucial to adhere to the specified deadlines and refer to the instructions for granting a bachelor’s degree and the student guide electronically.
+       <button>
+            <text>Learn more on page 14</text>
+            <url>https://pic.hu.edu.jo/Upload/42000000/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D9%85%D9%86%D8%AD%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D9%88%D8%B3%202016%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%2027-2-2019.pdf</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>What are the conditions for postponing studies at the university</pattern>
+    <template>
+        To postpone studies, the student must adhere to specific conditions, which are outlined in the instructions for granting a bachelor’s degree and the student guide electronically.
+        It is essential to review these conditions before submitting a request for study postponement.
+         <button>
+            <text>Learn more on page 14</text>
+            <url>https://pic.hu.edu.jo/Upload/42000000/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D9%85%D9%86%D8%AD%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D9%88%D8%B3%202016%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%2027-2-2019.pdf</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>How many semesters can I postpone my studies</pattern>
+    <template>
+        A student may postpone their studies at the university for a period not exceeding five compulsory semesters, whether it is intermittent or continuous.
+        It is essential to review the guidelines and regulations in the instructions for granting a bachelor’s degree and the student guide electronically.
+       <button>
+            <text>Learn more on page 14</text>
+            <url>https://pic.hu.edu.jo/Upload/42000000/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D9%85%D9%86%D8%AD%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D9%88%D8%B3%202016%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%2027-2-2019.pdf</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>^ postpone my studies ^</pattern>
+    <template>
+        A student may postpone their studies at the university for a period not exceeding five compulsory semesters, whether it is intermittent or continuous.
+        It is essential to review the guidelines and regulations in the instructions for granting a bachelor’s degree and the student guide electronically.
+         <button>
+            <text>Learn more on page 14</text>
+            <url>https://pic.hu.edu.jo/Upload/42000000/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D9%85%D9%86%D8%AD%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D9%88%D8%B3%202016%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%2027-2-2019.pdf</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>^ postpone study ^</pattern>
+    <template>
+        A student may postpone their studies at the university for a period not exceeding five compulsory semesters, whether it is intermittent or continuous.
+        It is essential to review the guidelines and regulations in the instructions for granting a bachelor’s degree and the student guide electronically.
+        <button>
+            <text>Learn more on page 14</text>
+            <url>https://pic.hu.edu.jo/Upload/42000000/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D9%85%D9%86%D8%AD%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D9%88%D8%B3%202016%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%2027-2-2019.pdf</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>Is it possible to postpone studies after completing one academic semester</pattern>
+    <template>
+        No, it is not permissible to postpone the studies of a new student or someone transferring to the university except after completing one academic semester, at least after joining the university.
+        Refer to the instructions for granting a bachelor’s degree and the student guide electronically for further details.
+      <button>
+            <text>Learn more on page 14</text>
+            <url>https://pic.hu.edu.jo/Upload/42000000/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D9%85%D9%86%D8%AD%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D9%88%D8%B3%202016%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%2027-2-2019.pdf</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>How can I apply for a study postponement at the university</pattern>
+    <template>
+        The student may submit a request to postpone their studies by using the prescribed form.
+        This request should be submitted before the end of the second week of the semester.
+         <button>
+            <text>Learn more on page 14</text>
+            <url>https://pic.hu.edu.jo/Upload/42000000/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D9%85%D9%86%D8%AD%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D9%88%D8%B3%202016%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%2027-2-2019.pdf</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>What are the consequences of not adhering to the study postponement deadlines</pattern>
+    <template>
+        Failure to adhere to the study postponement deadlines may result in academic penalties.
+        It is crucial to follow the specified procedures and timelines, as outlined in the instructions for granting a bachelor’s degree and the student guide electronically.
+        <button>
+            <text>Learn more on page 14</text>
+            <url>https://pic.hu.edu.jo/Upload/42000000/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D9%85%D9%86%D8%AD%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D9%88%D8%B3%202016%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%2027-2-2019.pdf</url>
+        </button>
+    </template>
+</category>
+
+
+
+
+
+
+
+
+
+
+
+
+<category>
+    <pattern>Is there a maximum period for study postponement</pattern>
+    <template>
+        Yes, there is a maximum period for study postponement, and it should not exceed five compulsory semesters, whether intermittent or continuous.
+        It is important to adhere to this limit and refer to the guidelines in the instructions for granting a bachelor’s degree and the student guide electronically.
+      <button>
+            <text>Learn more on page 14</text>
+            <url>https://pic.hu.edu.jo/Upload/42000000/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D9%85%D9%86%D8%AD%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D9%88%D8%B3%202016%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%2027-2-2019.pdf</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>what Is the maximum period for study postponement</pattern>
+    <template>
+        <srai>Is there a maximum period for study postponement</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>What are the conditions for applying for a study postponement</pattern>
+    <template>
+        To apply for a study postponement, the student must meet specific conditions outlined in the university's guidelines.
+        Refer to the instructions for granting a bachelor’s degree and the student guide electronically for detailed information.
+        <button>
+            <text>Learn more on page 14</text>
+            <url>https://pic.hu.edu.jo/Upload/42000000/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D9%85%D9%86%D8%AD%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D9%88%D8%B3%202016%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%2027-2-2019.pdf</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>How can I check the status of my study postponement request</pattern>
+    <template>
+        You can check the status of your study postponement request through the university portal or by contacting the relevant department.
+        Ensure to follow up on your request and meet any additional requirements, if necessary.
+    </template>
+</category>
+
+<category>
+    <pattern>What are the common reasons for study postponement</pattern>
+    <template>
+        Study postponement is commonly allowed for reasons such as medical conditions, family emergencies, or other compelling circumstances.
+        Make sure to provide supporting documentation when submitting your request.
+    </template>
+</category>
+
+<category>
+    <pattern>What happens if my study postponement request is denied</pattern>
+    <template>
+        If your study postponement request is denied, you should consult with the Dean of Student Affairs or the relevant department for further guidance.
+        They can provide insights into the denial reasons and discuss potential alternatives.
+    </template>
+</category>
+
+<category>
+    <pattern>Can I appeal a denied study postponement request</pattern>
+    <template>
+        Yes, you can appeal a denied study postponement request. Follow the university's appeal process and provide any additional information that supports your case.
+    </template>
+</category>
+
+<category>
+    <pattern>What is the process for withdrawing a study postponement request</pattern>
+    <template>
+        If you wish to withdraw your study postponement request, contact the relevant department or the Dean of Student Affairs as soon as possible.
+        Provide a clear explanation for your decision and follow any required procedures.
+    </template>
+</category>
+
+<category>
+    <pattern>Is there a fee associated with study postponement</pattern>
+    <template>
+        There may be specific fees associated with study postponement. Check the university's fee structure or contact the relevant department for accurate information.
+        Be aware of any financial implications before submitting your request.
+    </template>
+</category>
+
+<category>
+    <pattern>Are there alternatives to study postponement</pattern>
+    <template>
+        In some cases, alternatives to study postponement may include course withdrawals, taking a reduced course load, or exploring flexible scheduling options.
+        Discuss your situation with academic advisors to explore the best alternatives for your circumstances.
+    </template>
+</category>
+
+<category>
+    <pattern>Can international students apply for study postponement</pattern>
+    <template>
+        Yes, international students can apply for study postponement. However, they should consider potential visa implications and communicate with the international student office for guidance.
+    </template>
+</category>
+
+<category>
+    <pattern>What are the steps to apply for study postponement</pattern>
+    <template>
+        The steps to apply for study postponement include completing the prescribed form, providing necessary documentation, and submitting the request before the specified deadline.
+        Follow the guidelines outlined in the university's instructions for granting a bachelor’s degree and the student guide electronically.
+        <button>
+            <text>Learn more on page 14</text>
+            <url>https://pic.hu.edu.jo/Upload/42000000/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D9%85%D9%86%D8%AD%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D9%88%D8%B3%202016%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%2027-2-2019.pdf</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>How many semesters can I postpone and what is the legal period for me to stay at the university</pattern>
+    <template>
+        The student may postpone his studies at the university for a period not exceeding five compulsory semesters, whether
+        Was it intermittent or continuous
+        
+    </template>
+</category>
+
+
+
+
+
+
+
+
+<category>
+    <pattern>What are the conditions for transferring to the university from another Jordanian university</pattern>
+    <template>
+        To transfer to the university from another official Jordanian university, the following conditions must be met:
+        <ol>
+            <li>A seat must be available for the student in the specialty he wishes to transfer to.</li>
+            <li>The student must have successfully studied no less than (33) credit hours at his current university, which are included in the calculation of his cumulative grades. These grades are not included in calculating his cumulative average at the university.</li>
+            <li>The student's GPA in high school must be acceptable either in the year he obtained high school or the year he applied for the transfer. A very good cumulative average is required. In this case, the student must move to the same subjects he studied at his current university, no less than the major in which he is accepted at the university for regular study.</li>
+            <li>The student must not have been expelled from his current university.</li>
+            <li>The Dean of the College may consider the possibility of the student transferring to a major close to his current major if it is not available at the university.</li>
+        </ol>
+        <button>
+            <text>Learn more on page 15</text>
+            <url>https://pic.hu.edu.jo/Upload/42000000/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D9%85%D9%86%D8%AD%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D9%88%D8%B3%202016%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%2027-2-2019.pdf</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>^ transferring to the university ^</pattern>
+    <template>
+      <srai>What are the conditions for transferring to the university from another Jordanian university</srai>
+    </template>
+</category>
+<category>
+    <pattern>What are the requirements for transferring to the university from another Jordanian university</pattern>
+    <template>
+      <srai>What are the conditions for transferring to the university from another Jordanian university</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>How can I transfer to the university from another Jordanian university</pattern>
+    <template>
+      <srai>What are the conditions for transferring to the university from another Jordanian university</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Can you tell me the process of transferring to the university from another Jordanian university</pattern>
+    <template>
+      <srai>What are the conditions for transferring to the university from another Jordanian university</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Are there any specific requirements for transferring to the university from another Jordanian university</pattern>
+    <template>
+      <srai>What are the conditions for transferring to the university from another Jordanian university</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ transfer process ^</pattern>
+    <template>
+      <srai>What are the conditions for transferring to the university from another Jordanian university</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>What do I need to do to transfer to the university from another Jordanian university</pattern>
+    <template>
+      <srai>What are the conditions for transferring to the university from another Jordanian university</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Is it possible to transfer to the university from another Jordanian university</pattern>
+    <template>
+      <srai>What are the conditions for transferring to the university from another Jordanian university</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ transfer eligibility ^</pattern>
+    <template>
+      <srai>What are the conditions for transferring to the university from another Jordanian university</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Can I transfer to the university from another Jordanian university after being expelled from my current university</pattern>
+    <template>
+      <srai>What are the conditions for transferring to the university from another Jordanian university</srai>
+    </template>
+</category>
+
+
+
+
+
+
+
+
+
+
+<category>
+    <pattern>Is it permissible for a student at a private university to transfer to the Hashemite University</pattern>
+    <template>
+        It is possible on the parallel or international program if the transfer conditions are met 
+        It is permissible to accept students transferring from non-Jordanian universities or private Jordanian universities who have successfully completed (33)
+        One credit hour for those who obtained a very good grade in the parallel or international program, provided that they achieve the minimum
+        The minimum acceptance rate for the specialty approved by the Ministry of Higher Education.
+         <button>
+            <text>Learn more on page 16</text>
+            <url>https://pic.hu.edu.jo/Upload/42000000/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D9%85%D9%86%D8%AD%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D9%88%D8%B3%202016%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%2027-2-2019.pdf</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>Can I transfer to the Hashemite University from a private university</pattern>
+    <template>
+        <srai>Is it permissible for a student at a private university to transfer to the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>How can I transfer from a private university to the Hashemite University</pattern>
+    <template>
+        <srai>Is it permissible for a student at a private university to transfer to the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ private university transfer ^</pattern>
+    <template>
+        <srai>Is it permissible for a student at a private university to transfer to the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Are there any restrictions on transferring from a private university to the Hashemite University</pattern>
+    <template>
+        <srai>Is it permissible for a student at a private university to transfer to the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>What are the requirements for transferring from a private university to the Hashemite University</pattern>
+    <template>
+        <srai>Is it permissible for a student at a private university to transfer to the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Is transferring from a private university to the Hashemite University competitive</pattern>
+    <template>
+        <srai>Is it permissible for a student at a private university to transfer to the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ private university to HU ^</pattern>
+    <template>
+        <srai>Is it permissible for a student at a private university to transfer to the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Can I transfer to the Hashemite University if I am currently studying at a private university</pattern>
+    <template>
+        <srai>Is it permissible for a student at a private university to transfer to the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Is there a specific process for transferring from a private university to the Hashemite University</pattern>
+    <template>
+        <srai>Is it permissible for a student at a private university to transfer to the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>What is the acceptance rate for transferring from a private university to the Hashemite University</pattern>
+    <template>
+        <srai>Is it permissible for a student at a private university to transfer to the Hashemite University</srai>
+    </template>
+</category>
+
+
+
+
+
+
+
+
+<category>
+    <pattern>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</pattern>
+    <template>
+        Yes, it is permissible if the student is re-accepted.
+        <button>
+            <text>Learn more on page 16</text>
+            <url>https://pic.hu.edu.jo/Upload/42000000/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D9%85%D9%86%D8%AD%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D9%88%D8%B3%202016%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%2027-2-2019.pdf</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>Can a student who was dismissed from another university apply to the Hashemite University</pattern>
+    <template>
+        <srai>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>What are the conditions for a dismissed student to be accepted at the Hashemite University</pattern>
+    <template>
+        <srai>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ dismissed student acceptance ^</pattern>
+    <template>
+        <srai>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Can a student who was expelled from another university join the Hashemite University</pattern>
+    <template>
+        <srai>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ re-acceptance after dismissal ^</pattern>
+    <template>
+        <srai>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Can a student who faced dismissal at another university reapply to the Hashemite University</pattern>
+    <template>
+        <srai>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ student dismissal and readmission ^</pattern>
+    <template>
+        <srai>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Can a student who was expelled from a previous university study at the Hashemite University</pattern>
+    <template>
+        <srai>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>What is the process for accepting a student who faced dismissal from another university</pattern>
+    <template>
+        <srai>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ student readmission ^</pattern>
+    <template>
+        <srai>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</srai>
+    </template>
+</category>
+
+
+
+
+
+
+
+
+
+
+
+<category>
+    <pattern>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</pattern>
+    <template>
+        Yes, it is permissible if the student is re-accepted.
+        <button>
+            <text>Learn more on page 16</text>
+            <url>https://pic.hu.edu.jo/Upload/42000000/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D9%85%D9%86%D8%AD%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D9%88%D8%B3%202016%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%2027-2-2019.pdf</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>Can a student who was dismissed from another university apply to the Hashemite University</pattern>
+    <template>
+        <srai>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>What are the conditions for a dismissed student to be accepted at the Hashemite University</pattern>
+    <template>
+        <srai>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ dismissed student acceptance ^</pattern>
+    <template>
+        <srai>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Can a student who was expelled from another university join the Hashemite University</pattern>
+    <template>
+        <srai>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ re-acceptance after dismissal ^</pattern>
+    <template>
+        <srai>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Can a student who faced dismissal at another university reapply to the Hashemite University</pattern>
+    <template>
+        <srai>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ student dismissal and readmission ^</pattern>
+    <template>
+        <srai>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Can a student who was expelled from a previous university study at the Hashemite University</pattern>
+    <template>
+        <srai>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>What is the process for accepting a student who faced dismissal from another university</pattern>
+    <template>
+        <srai>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ student readmission ^</pattern>
+    <template>
+        <srai>Is it permissible for a student who was dismissed from his major at another university to be accepted into the same major at the Hashemite University</srai>
+    </template>
+</category>
+
+
+
+
+
+
+
+
+
+<category>
+    <pattern>Is it permissible for a student who has completed the university graduation requirements with a low GPA and wants to raise his GPA to study new subjects or re study subjects in which he obtained low grades for the purpose of obtaining a higher grade</pattern>
+    <template>
+        Yes, it is permissible, and this is called (postponing graduation) before receiving the documents with official approval from the Deans’ Council.
+        <button>
+            <text>Find more about</text>
+            <url>https://hu.edu.jo/ser/CouncilofDeans.aspx?t=0</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>Can a student with a low GPA postpone graduation to raise their GPA by studying new subjects or re studying subjects with low grades</pattern>
+    <template>
+        <srai>Is it permissible for a student who has completed the university graduation requirements with a low GPA and wants to raise his GPA to study new subjects or re study subjects in which he obtained low grades for the purpose of obtaining a higher grade</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ postponing graduation for GPA improvement ^</pattern>
+    <template>
+        <srai>Is it permissible for a student who has completed the university graduation requirements with a low GPA and wants to raise his GPA to study new subjects or re-study subjects in which he obtained low grades for the purpose of obtaining a higher grade</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>Can a student request to postpone graduation for GPA enhancement by studying new subjects or restudying subjects with low grades</pattern>
+    <template>
+        <srai>Is it permissible for a student who has completed the university graduation requirements with a low GPA and wants to raise his GPA to study new subjects or re-study subjects in which he obtained low grades for the purpose of obtaining a higher grade</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>What is the process for postponing graduation to improve GPA by studying new subjects or restudying subjects with low grades</pattern>
+    <template>
+        <srai>Is it permissible for a student who has completed the university graduation requirements with a low GPA and wants to raise his GPA to study new subjects or re study subjects in which he obtained low grades for the purpose of obtaining a higher grade</srai>
+    </template>
+</category>
+
+
+
+
+
+
+
+
+
+
+<category>
+    <pattern>Is it permissible for a student who withdraws from the university in his first semester to return to school</pattern>
+    <template>
+        He must spend at least one semester studying and can return within four years of his withdrawal, provided that he is not expelled from the university and his GPA is not less than 2.
+    </template>
+</category>
 
 
 
