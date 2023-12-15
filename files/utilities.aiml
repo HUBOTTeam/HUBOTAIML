@@ -29,7 +29,7 @@
 </category>
 <category><pattern>REMAININGLETTERS</pattern>
 <template>undefined</template>
-</category>
+</category> 
 <category><pattern>NTH 0 *</pattern>
 <template><star/> has no zeroth letter.</template>
 </category>
