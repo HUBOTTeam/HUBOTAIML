@@ -2,9 +2,8 @@
 <aiml version="2.0">
 	
 	<category>
-	    <pattern>
-	        How can I join student clubs
-	    </pattern>
+	    <pattern>*</pattern>
+	    <that>How can I join student clubs</that>
 	    <template>
 	         <ol>
 	            <li>University website</li>
