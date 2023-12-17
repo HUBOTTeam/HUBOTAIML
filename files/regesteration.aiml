@@ -584,12 +584,4 @@
     </template>
 </category>
 
-
-
-
-
-<category>
-    <pattern>hi</pattern>
-    <template>hi</template>
-</category>
 </aiml>
