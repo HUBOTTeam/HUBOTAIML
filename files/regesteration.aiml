@@ -59,7 +59,7 @@
 </category>
 
 <category>
-    <pattern>Register on the internet?</pattern>
+    <pattern>Register on the internet</pattern>
     <template>
         Yes, you can register online by visiting the official university website.
         Simply <link><text>click here</text><url>https://reg2.hu.edu.jo/Default.aspx</url></link>.
