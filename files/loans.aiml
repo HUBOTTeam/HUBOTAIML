@@ -10,7 +10,7 @@
 	    </template>
     </category>
     <category>
-    <pattern>What is the amount of the loan?</pattern>
+    <pattern>What is the amount of the loan</pattern>
     <template><srai>How much is the loan</srai></template>
 </category>
 
@@ -116,7 +116,7 @@
 </category>
 
 <category>
-    <pattern>Can you provide information on post-graduation loan repayments</pattern>
+    <pattern>Can you provide information on post graduation loan repayments</pattern>
     <template><srai>How to repay the loan</srai></template>
 </category>
 
